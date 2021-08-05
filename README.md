@@ -8,3 +8,5 @@ In order to setup this system , follow these steps -
 6) Run the "Image Sender.py" and "object alert speaker.py" in seperate terminals.
 7) Run the cells in the google colab notebook.
 8) You should have a system that speakes the object in front of the camera of local computer and its distance.
+
+![Sample](https://user-images.githubusercontent.com/34713455/128310138-056d3aa1-3aad-4543-ae7d-b475cb81d64c.png)
